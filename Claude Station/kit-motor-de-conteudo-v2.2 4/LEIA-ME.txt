@@ -1,0 +1,139 @@
+====================================================
+  MOTOR DE CONTEÚDO · kit do aluno · versão 2.2
+  A Virada IA · Bruna Santanna
+====================================================
+
+Boas-vindas! Este kit tem as duas skills do curso:
+
+  sistema-virada.zip    A Construtora: monta com você o SEU
+                        motor de conteúdo, do zero.
+  edita-meu-video.zip   A skill de edição de vídeo, que
+                        aprende o seu jeito de editar.
+
+Cada .zip é uma skill inteira, com tudo dentro. Eles
+vão para o Claude do jeito que estão, SEM descompactar.
+
+Elas não são um motor pronto. São motores de criação:
+te entrevistam, leem o seu material e montam o sistema
+com a sua cara.
+
+O passo a passo em vídeo está no "Setup Claude para o
+motor", logo no começo do curso.
+
+Se travar em qualquer passo, abra o Claude e escreva
+"travei na instalação, me ajuda". Ele te guia.
+
+
+----------------------------------------------------
+ANTES DE TUDO
+----------------------------------------------------
+  . Conta paga do Claude (a assinatura, não a grátis).
+  . O aplicativo do Claude instalado no computador
+    (claude.ai/download). Sem o app, o sistema não roda.
+  . A aba Code do aplicativo. É a que aparece nas aulas.
+  . Para montar o sistema, escolha o modelo mais forte
+    do seu plano. O mais leve dá mais erro nesta fase.
+
+
+----------------------------------------------------
+PASSO 0 · Ligue a execução de código
+----------------------------------------------------
+No aplicativo: Configurações > Capacidades, e ligue
+"execução de código e criação de arquivos".
+Sem isso, as skills aparecem apagadas e nada acontece.
+
+
+----------------------------------------------------
+PASSO 1 · Crie a pasta de trabalho
+----------------------------------------------------
+Na sua área de trabalho, crie uma pasta chamada
+"Claude Station". É ali que tudo do Claude vai morar.
+Coloque este kit dentro dela e extraia o kit
+(Windows: botão direito > Extrair tudo. Mac: dois
+cliques). Vão aparecer este LEIA-ME e os dois .zip
+das skills: esses dois você não extrai.
+
+
+----------------------------------------------------
+PASSO 2 · Entregue a pasta para o Claude
+----------------------------------------------------
+No aplicativo do Claude, aba Code, clique em escolher
+pasta, selecione a "Claude Station" e confirme que
+confia nela.
+
+No Windows, se o aplicativo pedir para instalar o Git,
+instale com as opções que já vêm marcadas e reabra o
+Claude.
+
+
+----------------------------------------------------
+PASSO 3 · Instale as duas skills
+----------------------------------------------------
+No aplicativo do Claude:
+  Personalizar > Habilidades > Adicionar >
+  Fazer upload de uma habilidade
+
+Escolha o arquivo sistema-virada.zip, do jeito que
+está. Depois repita com o edita-meu-video.zip. Confira
+que as duas estão com a chave ligada.
+
+Se você já tinha instalado a versão antiga, o Claude
+pergunta se pode substituir. Pode. O seu sistema
+(a pasta meu-sistema) continua intacto.
+
+
+----------------------------------------------------
+PASSO 4 · Comece
+----------------------------------------------------
+Abra uma conversa nova, na aba Code, com a Claude
+Station aberta, e cole esta frase (ela está também
+na Central do aluno, com botão de copiar):
+
+  Vamos montar meu sistema com a Construtora: use a
+  skill sistema-virada e siga as instruções dela
+  desde o começo. Se você não encontrar essa skill,
+  não comece nada: me avise que eu instalo primeiro.
+
+A Construtora assume dali: cria a sua pasta
+meu-sistema dentro da Claude Station, confere o seu
+computador (e instala o que faltar, sempre te
+avisando antes) e manda as perguntas de cada etapa
+todas juntas, numeradas, para você responder de uma
+vez.
+
+Quando voltar outro dia, escreva "continuar o
+workshop" e ela retoma de onde vocês pararam.
+
+Alguma coisa não está funcionando? Escreva
+"faz um check-up". Ela confere tudo, resolve o que
+der e, se precisar, monta o pedido pronto para o
+suporte: suporte@brunasantanna.com
+
+
+----------------------------------------------------
+O QUE MUDOU NA VERSÃO 2.2
+----------------------------------------------------
+  . Check-up do computador e das contas logo no
+    começo: ferramentas de vídeo, imagens do
+    carrossel, Metricool e Google Drive.
+  . O comando "faz um check-up" para quando travar.
+  . A pasta meu-sistema nasce dentro da Claude Station.
+  . O dossiê do perfil no lugar da análise do Manus.
+  . A esteira no Google Drive: você grava, sobe numa
+    pasta, e a edição e o agendamento acontecem aqui.
+  . Edição de vídeo com ferramentas próprias: ela
+    ouve a sua fala, tira todos os respiros sozinha,
+    corta a frase que você repetiu e põe legenda,
+    título, zoom e capa no seu padrão.
+  . Na primeira vez, a edição pede as suas
+    referências (vídeos seus e de quem você admira)
+    e aprende o seu jeito a partir delas.
+  . Teste de 20 segundos, conferência dos quadros e
+    texto longe dos botões do Instagram.
+  . A sua marca é perguntada uma vez só: vídeo,
+    carrossel e painel usam as mesmas cores, fontes
+    e logo.
+  . O painel abre no Chrome com um pedido, e o radar
+    avisa quando não rodou.
+
+A ferramenta certa, do jeito certo.
